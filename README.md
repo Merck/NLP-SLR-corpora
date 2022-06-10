@@ -1,0 +1,2 @@
+# NLP-SLR-corpora
+The use of systematic literature reviews (SLR) is an important tool for life-science research. SLRs are manually intensive procedures involving selection and retrieval of relevant publications, typically by human review of their abstracts. The shared two disease-specific corpora were developed for this purpose. One is for human papillomavirus (HPV) associated diseases and the other is for pneumococcal-associated pediatric diseases (PAPD).
